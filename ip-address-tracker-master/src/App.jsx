@@ -11,7 +11,7 @@ const App = () => {
   const [loading, setLoading] = useState(true);
   const [ip, setIP] = useState(null);
 
-  const API_KEY = "at_Rr18gt5YiQvy6uACFjTBZ4ooTw2dc";
+  const API_KEY = "API_KEY";
 
   const btnClicked = () => {
     setLoading(true);
